@@ -1,4 +1,5 @@
 rpjs
 ====
 
-Rapid Prototyping with JavaScript [0.5]
+[Rapid Prototyping with JavaScript](https://leanpub.com/rapid-prototyping-with-js),
+by Azat Mardanov
